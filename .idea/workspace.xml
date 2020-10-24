@@ -20,18 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fffbed1f-f8d9-4c52-b6a5-f54deb9d23f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tarea2Ejercicio2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/bl/entidades/Motor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/bl/entidades/Vehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/bl/gestor/Gestor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/controlador/Controlador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/ui/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/controlador/Controlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/controlador/Controlador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

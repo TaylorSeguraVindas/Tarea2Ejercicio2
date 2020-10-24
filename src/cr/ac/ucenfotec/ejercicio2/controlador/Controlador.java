@@ -65,6 +65,11 @@ public class Controlador {
         }
     }
 
+    /**
+     * Este método se usa para llevar a cabo el registro de un motor
+     * @return el motor que se ha creado y registrado, null si ya existe
+     * @see Motor
+     */
     private Motor registrarMotor() {
         ui.imprimirLinea("Registro de motor");
         ui.imprimir("Serie: ");
@@ -83,6 +88,9 @@ public class Controlador {
 
         return null;
     }
+    /**
+     * Este método se usa mostrar en el UI todos los motores que se han registrado
+     */
     private void listarMotores() {
         ui.imprimirLinea("Lista de motores");
         ArrayList<Motor> motores = gestor.listarMotores();
@@ -92,6 +100,11 @@ public class Controlador {
         }
     }
 
+    /**
+     * Este método se usa para llevar a cabo el registro de un vehiculo
+     * @return el vehiculo que se ha creado y registrado, null si ya existe
+     * @see Vehiculo
+     */
     private Vehiculo registrarVehiculo(){
         ui.imprimirLinea("Registro de vehiculo");
         ui.imprimir("Numero de serie: ");
@@ -120,6 +133,9 @@ public class Controlador {
 
         return null;
     }
+    /**
+     * Este método se usa mostrar en el UI todos los motores que se han registrado
+     */
     private void listarVehiculos(){
         ui.imprimirLinea("Lista de vehiculos");
         ArrayList<Vehiculo> vehiculos = gestor.listarVehiculos();
