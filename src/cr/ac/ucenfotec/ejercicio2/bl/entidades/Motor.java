@@ -21,6 +21,12 @@ public class Motor {
     }
 
     public Motor(){}
+
+    /**
+     * Metodo constructor para la clase Motor
+     * @param pSerie String que contiene el numero de serie de este motor
+     * @param pNumCilindros entero que define la cantidad de cilindros de este motor
+     */
     public Motor(String pSerie, int pNumCilindros) {
         this.mserie = pSerie;
         this.mnumCilindros = pNumCilindros;

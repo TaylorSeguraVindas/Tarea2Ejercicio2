@@ -28,11 +28,23 @@ public class Vehiculo {
         this.mmotor = mmotor;
     }
 
+    /**
+     * Metodo constructor para la clase Vehiculo
+     * @param pNumSerie String que contiene el numero de serie de este vehiculo
+     * @param pMarca String que contiene la marca de este vehiculo
+     */
     public Vehiculo(String pNumSerie, String pMarca) {
         this.mnumSerie = pNumSerie;
         this.mmarca = pMarca;
         this.mmotor = new Motor(pNumSerie, 4); //Este constructor tiene que crear el motor
     }
+    /**
+     * Metodo constructor para la clase Vehiculo
+     * @param pNumSerie String que contiene el numero de serie de este vehiculo
+     * @param pMarca String que contiene la marca de este vehiculo
+     * @param pMotor objeto de la clase Motor que define el motor de este vehiculo
+     * @see Motor
+     */
     public Vehiculo(String pNumSerie, String pMarca, Motor pMotor) {
         this.mnumSerie = pNumSerie;
         this.mmarca = pMarca;
