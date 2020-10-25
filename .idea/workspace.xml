@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fffbed1f-f8d9-4c52-b6a5-f54deb9d23f0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/bl/entidades/Motor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/bl/entidades/Motor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/bl/entidades/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cr/ac/ucenfotec/ejercicio2/bl/entidades/Vehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tarea2Ejercicio3" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -94,29 +92,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="829" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603564336331" />
-    <state x="430" y="83" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603564686486">
+    <state x="430" y="83" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603637857092">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="430" y="83" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1603564686486" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603578666828">
+    <state x="430" y="83" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1603637857092" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603643247122">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603578666828" />
-    <state width="1323" height="335" key="GridCell.Tab.0.bottom" timestamp="1603564892244">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603643247122" />
+    <state width="1323" height="335" key="GridCell.Tab.0.bottom" timestamp="1603637933089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="335" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603564892244" />
-    <state width="1323" height="335" key="GridCell.Tab.0.center" timestamp="1603564892243">
+    <state width="1323" height="335" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603637933089" />
+    <state width="1323" height="335" key="GridCell.Tab.0.center" timestamp="1603637933089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="335" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603564892243" />
-    <state width="1323" height="335" key="GridCell.Tab.0.left" timestamp="1603564892243">
+    <state width="1323" height="335" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603637933089" />
+    <state width="1323" height="335" key="GridCell.Tab.0.left" timestamp="1603637933089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="335" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603564892243" />
-    <state width="1323" height="335" key="GridCell.Tab.0.right" timestamp="1603564892243">
+    <state width="1323" height="335" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603637933089" />
+    <state width="1323" height="335" key="GridCell.Tab.0.right" timestamp="1603637933089">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="335" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603564892243" />
+    <state width="1323" height="335" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603637933089" />
   </component>
 </project>
